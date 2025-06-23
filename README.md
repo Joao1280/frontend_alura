@@ -1,3 +1,5 @@
+
+
 # Website: Projeto Frontend com HTML e CSS
 
 Este é um site desenvolvido como parte do curso de **Frontend com HTML e CSS da Alura**. O objetivo foi colocar em prática os principais conceitos de estruturação e estilização de páginas web, criando um layout moderno, responsivo e acessível.
@@ -22,3 +24,7 @@ Este é um site desenvolvido como parte do curso de **Frontend com HTML e CSS da
 - Rodapé fixo e cabeçalho com navegação
 
 ---
+
+
+
+
